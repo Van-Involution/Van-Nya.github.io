@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Van_Nya&#39;s Cauldron</title>
+  <icon>https://ruavan.one/icon.png</icon>
+  <subtitle>施工中</subtitle>
+  <link href="https://ruavan.one/atom.xml" rel="self"/>
+  
+  <link href="https://ruavan.one/"/>
+  <updated>2021-07-14T17:53:01.251Z</updated>
+  <id>https://ruavan.one/</id>
+  
+  <author>
+    <name>Van_Nya</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这不是测试页面</title>
+    <link href="https://ruavan.one/test"/>
+    <id>https://ruavan.one/test</id>
+    <published>2021-02-22T03:45:14.000Z</published>
+    <updated>2021-07-14T17:53:01.251Z</updated>
+    
+    
+    <summary type="html">这不是用于测试网站渲染的页面（确信</summary>
+    
+    
+    
+    <category term="Test" scheme="https://ruavan.one/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://ruavan.one/tags/Test/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://ruavan.one/test/hello-world"/>
+    <id>https://ruavan.one/test/hello-world</id>
+    <published>2021-02-21T03:45:14.000Z</published>
+    <updated>2021-06-02T03:28:57.787Z</updated>
+    
+    
+    <summary type="html">Hello-world of Hexo</summary>
+    
+    
+    
+    <category term="Test" scheme="https://ruavan.one/categories/Test/"/>
+    
+    
+    <category term="Test" scheme="https://ruavan.one/tags/Test/"/>
+    
+    <category term="Hello-World" scheme="https://ruavan.one/tags/Hello-World/"/>
+    
+  </entry>
+  
+</feed>
